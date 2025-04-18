@@ -78,6 +78,7 @@ p {
 @media screen and (max-width: 710px) {
     .container-buttons {
         margin-top: 3vh;
+        width: 80%;
     }
 
     button {
