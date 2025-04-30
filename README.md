@@ -16,7 +16,7 @@ Em essência: Uma demonstração concisa e impactante de como Map, Reduce e Filt
 
 <h2>Projeto totalmente responsivo para dispositivos móveis!</h2>
 
-link(https://map-experience-jex.netlify.app/)
+Confira: (https://map-experience-jex.netlify.app/)
 
 
 LAYOUT PARA DESKTOP
