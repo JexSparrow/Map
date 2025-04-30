@@ -1,4 +1,4 @@
-🚀 Um Menu Interativo / Map, Reduce e Filter🚀
+<h1>🚀 Um Menu Interativo / Map, Reduce e Filter🚀</h1>
 
 Mergulhe em um projeto que transforma a visualização de dados em uma experiência dinâmica e informativa! Com este menu interativo, construído com a agilidade do HTML, o estilo do CSS e a inteligência do JavaScript, você terá o poder de manipular e analisar informações com apenas um clique.
 
@@ -14,7 +14,7 @@ Filtro Vegano Seletivo: Isole e visualize apenas os deliciosos itens veganos do 
 
 Em essência: Uma demonstração concisa e impactante de como Map, Reduce e Filter podem ser utilizados para exibir, transformar e analisar conjuntos de dados, proporcionando insights instantâneos e uma experiência de usuário interativa e eficiente!
 
-Projeto totalmente responsivo para dispositivos móveis!
+<h2>Projeto totalmente responsivo para dispositivos móveis!</h2>
 
 link(https://map-experience-jex.netlify.app/)
 
